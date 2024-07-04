@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por resolver problemas desde 1998, com foco em l
 
 ## 📫 Contato
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- **LinkedIn:** https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 - **Email:** williamcardia@hotmail.com
 - **Telefone:** (015) 99742-5226
 
